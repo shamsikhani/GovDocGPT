@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+langchain
+python-dotenv
+beautifulsoup4==4.12.3
+requests>=2.32.3
+PyPDF2==3.0.1
+openai
+numpy # Added numpy
